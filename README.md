@@ -26,7 +26,7 @@ slush should catch ^C typed from the keyboard. If a command is running, this sho
 slush will exit when it reads an end-of-file on input.
 
 # Usage
-Run with makefile and run with following commands:
+Compile with makefile and run with following commands:
 ```bash
 make
 ./slush
