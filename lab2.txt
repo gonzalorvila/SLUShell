@@ -1,0 +1,11 @@
+Lab 2 Questions:
+
+1) Caleb Potter, Gonzalo Rodriguez-Vila, Ryan Wilks.
+
+2)  A known bug that we have is that our terminal outputs Invalid null input 
+    for every input not matter if the program can be executed or not. For example 
+    even ls throws this error statement but still is all the right output.
+
+3)  A known bug that we have is that our terminal outputs Invalid null input for 
+    every input not matter if the program can be executed or not. For example even 
+    s throws this error statement but still is all the right output.
